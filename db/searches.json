@@ -1,0 +1,604 @@
+[
+  {
+    "id": "1741432517052",
+    "timestamp": "2025-03-08T11:15:17.052Z",
+    "query": "palantir",
+    "result": {
+      "query": "palantir",
+      "content": "<h2>Palantir: A Deep Dive into the Data Analytics Giant</h2><p>Palantir Technologies Inc. is a public American software company specializing in big data analytics.  While the local document focuses on a specific positive news event – a 52-week high stock price and a new 5-year deal – a broader understanding of Palantir requires examining its history, products, target markets, controversies, and future prospects.</p><p><strong>I. From CIA-Funded Origins to Public Markets:</strong></p><p>Palantir's roots lie in PayPal, with co-founder Peter Thiel drawing inspiration from the company's anti-fraud systems to create software capable of combating terrorism.  Early funding came from In-Q-Tel, the CIA's venture capital arm, solidifying its initial focus on government and intelligence agencies. [(No direct citation, general knowledge supported by numerous articles on Palantir's history)]</p><p><strong>II. Product Portfolio: Gotham and Foundry:</strong></p><p>Palantir offers two primary software platforms:</p><p>* <strong>Gotham:</strong> Primarily used by government agencies for intelligence analysis, investigations, and operations. Its strength lies in integrating and analyzing disparate datasets, uncovering hidden patterns, and facilitating decision-making in complex scenarios.  [(Again, general knowledge)]</p><p>* <strong>Foundry:</strong> Targeted towards commercial clients, Foundry aims to bring Palantir's data integration and analysis capabilities to businesses across various sectors, including healthcare, finance, and manufacturing.  It focuses on operational decision-making, optimizing processes, and driving efficiency. [(General knowledge)]</p><p>The local document mentions Palantir's AIP (Artificial Intelligence Platform) software in the context of its partnership with BP.  This likely refers to Foundry's AI capabilities, suggesting Palantir is actively promoting its AI-driven solutions to commercial clients.  [(146) PALANTIR HITS $34, 52 WEEK HIGH, & A NEW 5-Y 2aab1291d5fe4fda9231400c2d5d9481.html]</p><p><strong>III. Target Markets: Government and Commercial Expansion:</strong></p><p>Palantir’s initial focus on government agencies, particularly in defense and intelligence, has been a significant driver of its growth.  However, the company has been actively pursuing expansion into commercial markets in recent years.  The five-year strategic partnership with BP, highlighted in the local document, exemplifies this push. [(146) PALANTIR HITS $34, 52 WEEK HIGH, & A NEW 5-Y 2aab1291d5fe4fda9231400c2d5d9481.html]  This diversification is crucial for Palantir to achieve sustainable long-term growth and reduce its dependence on government contracts.</p><p><strong>IV.  Financial Performance and Stock Market Activity:</strong></p><p>The local document celebrates Palantir hitting a 52-week high of $34.60, attributing the surge partly to its inclusion in the S&P 500 index. [(146) PALANTIR HITS $34, 52 WEEK HIGH, & A NEW 5-Y 2aab1291d5fe4fda9231400c2d5d9481.html] Inclusion in major indices often leads to increased investor interest and buying activity, driving up stock prices.  However, long-term stock performance depends on the company's underlying financial health and growth prospects.  The document advises investors to monitor Q3 earnings for growth indicators, highlighting the importance of fundamental analysis in assessing Palantir’s investment potential. [(146) PALANTIR HITS $34, 52 WEEK HIGH, & A NEW 5-Y 2aab1291d5fe4fda9231400c2d5d9481.html]</p><p><strong>V. Controversies and Ethical Concerns:</strong></p><p>Palantir's work with government agencies, particularly in areas like immigration enforcement and surveillance, has drawn significant criticism.  Concerns have been raised about privacy violations, potential biases in algorithms, and the lack of transparency in its operations.  These ethical considerations are essential aspects of evaluating Palantir as a company and its impact on society. [(No direct citation, but extensively covered by sources like The Intercept, Bloomberg, etc.)]</p><p><strong>VI. Future Outlook:</strong></p><p>Palantir's future hinges on its ability to successfully navigate the transition from a predominantly government-focused business to a more diversified company with a strong commercial presence.  The success of partnerships like the one with BP will be critical.  Furthermore, Palantir needs to address the ethical concerns surrounding its technology and demonstrate a commitment to responsible AI development and deployment. The increasing focus on AI capabilities, as evidenced by the BP partnership, suggests that Palantir sees AI as a key driver of future growth. [(146) PALANTIR HITS $34, 52 WEEK HIGH, & A NEW 5-Y 2aab1291d5fe4fda9231400c2d5d9481.html]</p><p><strong>VII. Connecting Local Document to Broader Context:</strong></p><p>The local document provides a snapshot of positive news for Palantir.  However, understanding the company requires placing this news within the larger context of its history, products, target markets, financial performance, controversies, and future outlook. While the stock market reacts positively to short-term catalysts like S&P 500 inclusion and new partnerships, long-term success depends on addressing the broader challenges and opportunities facing the company.</p>",
+      "model": "gemini",
+      "result": "## Palantir: A Deep Dive into the Data Analytics Giant\n\nPalantir Technologies Inc. is a public American software company specializing in big data analytics.  While the local document focuses on a specific positive news event – a 52-week high stock price and a new 5-year deal – a broader understanding of Palantir requires examining its history, products, target markets, controversies, and future prospects.\n\n**I. From CIA-Funded Origins to Public Markets:**\n\nPalantir's roots lie in PayPal, with co-founder Peter Thiel drawing inspiration from the company's anti-fraud systems to create software capable of combating terrorism.  Early funding came from In-Q-Tel, the CIA's venture capital arm, solidifying its initial focus on government and intelligence agencies. [(No direct citation, general knowledge supported by numerous articles on Palantir's history)]\n\n**II. Product Portfolio: Gotham and Foundry:**\n\nPalantir offers two primary software platforms:\n\n* **Gotham:** Primarily used by government agencies for intelligence analysis, investigations, and operations. Its strength lies in integrating and analyzing disparate datasets, uncovering hidden patterns, and facilitating decision-making in complex scenarios.  [(Again, general knowledge)]\n* **Foundry:** Targeted towards commercial clients, Foundry aims to bring Palantir's data integration and analysis capabilities to businesses across various sectors, including healthcare, finance, and manufacturing.  It focuses on operational decision-making, optimizing processes, and driving efficiency. [(General knowledge)]\n\nThe local document mentions Palantir's AIP (Artificial Intelligence Platform) software in the context of its partnership with BP.  This likely refers to Foundry's AI capabilities, suggesting Palantir is actively promoting its AI-driven solutions to commercial clients.  [(146) PALANTIR HITS $34, 52 WEEK HIGH, & A NEW 5-Y 2aab1291d5fe4fda9231400c2d5d9481.html]\n\n**III. Target Markets: Government and Commercial Expansion:**\n\nPalantir’s initial focus on government agencies, particularly in defense and intelligence, has been a significant driver of its growth.  However, the company has been actively pursuing expansion into commercial markets in recent years.  The five-year strategic partnership with BP, highlighted in the local document, exemplifies this push. [(146) PALANTIR HITS $34, 52 WEEK HIGH, & A NEW 5-Y 2aab1291d5fe4fda9231400c2d5d9481.html]  This diversification is crucial for Palantir to achieve sustainable long-term growth and reduce its dependence on government contracts.\n\n**IV.  Financial Performance and Stock Market Activity:**\n\nThe local document celebrates Palantir hitting a 52-week high of $34.60, attributing the surge partly to its inclusion in the S&P 500 index. [(146) PALANTIR HITS $34, 52 WEEK HIGH, & A NEW 5-Y 2aab1291d5fe4fda9231400c2d5d9481.html] Inclusion in major indices often leads to increased investor interest and buying activity, driving up stock prices.  However, long-term stock performance depends on the company's underlying financial health and growth prospects.  The document advises investors to monitor Q3 earnings for growth indicators, highlighting the importance of fundamental analysis in assessing Palantir’s investment potential. [(146) PALANTIR HITS $34, 52 WEEK HIGH, & A NEW 5-Y 2aab1291d5fe4fda9231400c2d5d9481.html]\n\n**V. Controversies and Ethical Concerns:**\n\nPalantir's work with government agencies, particularly in areas like immigration enforcement and surveillance, has drawn significant criticism.  Concerns have been raised about privacy violations, potential biases in algorithms, and the lack of transparency in its operations.  These ethical considerations are essential aspects of evaluating Palantir as a company and its impact on society. [(No direct citation, but extensively covered by sources like The Intercept, Bloomberg, etc.)]\n\n\n**VI. Future Outlook:**\n\nPalantir's future hinges on its ability to successfully navigate the transition from a predominantly government-focused business to a more diversified company with a strong commercial presence.  The success of partnerships like the one with BP will be critical.  Furthermore, Palantir needs to address the ethical concerns surrounding its technology and demonstrate a commitment to responsible AI development and deployment. The increasing focus on AI capabilities, as evidenced by the BP partnership, suggests that Palantir sees AI as a key driver of future growth. [(146) PALANTIR HITS $34, 52 WEEK HIGH, & A NEW 5-Y 2aab1291d5fe4fda9231400c2d5d9481.html]\n\n\n\n**VII. Connecting Local Document to Broader Context:**\n\nThe local document provides a snapshot of positive news for Palantir.  However, understanding the company requires placing this news within the larger context of its history, products, target markets, financial performance, controversies, and future outlook. While the stock market reacts positively to short-term catalysts like S&P 500 inclusion and new partnerships, long-term success depends on addressing the broader challenges and opportunities facing the company.\n",
+      "sources": [
+        {
+          "title": "(146) PALANTIR HITS $34, 52 WEEK HIGH, & A NEW 5-Y 2aab1291d5fe4fda9231400c2d5d9481.html",
+          "path": "/Users/raghavmehta/Downloads/Mehta Mail Export/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/(146) PALANTIR HITS $34, 52 WEEK HIGH, & A NEW 5-Y 2aab1291d5fe4fda9231400c2d5d9481.html",
+          "type": "local"
+        },
+        {
+          "title": "(146) PALANTIR HITS $34, 52 WEEK HIGH, & A NEW 5-Y 2aab1291d5fe4fda9231400c2d5d9481.md",
+          "path": "/Users/raghavmehta/Downloads/Mail from Mehta, Raghav Raj/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/(146) PALANTIR HITS $34, 52 WEEK HIGH, & A NEW 5-Y 2aab1291d5fe4fda9231400c2d5d9481.md",
+          "type": "local"
+        },
+        {
+          "title": "(146) PALANTIR HITS $34, 52 WEEK HIGH, & A NEW 5-YEAR DEAL. - YouTube.md",
+          "path": "/Users/raghavmehta/Library/Mobile Documents/iCloud~md~obsidian/Documents/OCTA/Notion/The Archive/(146) PALANTIR HITS $34, 52 WEEK HIGH, & A NEW 5-YEAR DEAL. - YouTube.md",
+          "type": "local"
+        },
+        {
+          "title": "(215) PALANTIR AIPCON RECAP, NVIDIA PROVES AI CONT 100db6da25c781b58426da4c60b723ca.html",
+          "path": "/Users/raghavmehta/Downloads/Mehta Mail Export/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/(215) PALANTIR AIPCON RECAP, NVIDIA PROVES AI CONT 100db6da25c781b58426da4c60b723ca.html",
+          "type": "local"
+        },
+        {
+          "title": "(215) PALANTIR AIPCON RECAP, NVIDIA PROVES AI CONT 100db6da25c781b58426da4c60b723ca.md",
+          "path": "/Users/raghavmehta/Downloads/Mail from Mehta, Raghav Raj/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/(215) PALANTIR AIPCON RECAP, NVIDIA PROVES AI CONT 100db6da25c781b58426da4c60b723ca.md",
+          "type": "local"
+        },
+        {
+          "title": "(215) PALANTIR AIPCON RECAP, NVIDIA PROVES AI CONTINUES TO BE REAL, ORACLE BOOSTS GUIDANCE  MARKET OPEN - YouTube.md",
+          "path": "/Users/raghavmehta/Library/Mobile Documents/iCloud~md~obsidian/Documents/OCTA/Notion/The Archive/(215) PALANTIR AIPCON RECAP, NVIDIA PROVES AI CONTINUES TO BE REAL, ORACLE BOOSTS GUIDANCE  MARKET OPEN - YouTube.md",
+          "type": "local"
+        },
+        {
+          "title": "(282) Tech Outperforming and Musk's Interview With 55ebe9488f3d43159df6a6942bcca9c7.html",
+          "path": "/Users/raghavmehta/Downloads/Mehta Mail Export/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/(282) Tech Outperforming and Musk's Interview With 55ebe9488f3d43159df6a6942bcca9c7.html",
+          "type": "local"
+        },
+        {
+          "title": "(282) Tech Outperforming and Musk's Interview With 55ebe9488f3d43159df6a6942bcca9c7.md",
+          "path": "/Users/raghavmehta/Downloads/Mail from Mehta, Raghav Raj/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/(282) Tech Outperforming and Musk's Interview With 55ebe9488f3d43159df6a6942bcca9c7.md",
+          "type": "local"
+        },
+        {
+          "title": "(282) Tech Outperforming and Musk's Interview With Trump  Bloomberg Technology - YouTube.md",
+          "path": "/Users/raghavmehta/Library/Mobile Documents/iCloud~md~obsidian/Documents/OCTA/Notion/The Archive/(282) Tech Outperforming and Musk's Interview With Trump  Bloomberg Technology - YouTube.md",
+          "type": "local"
+        },
+        {
+          "title": "(316) Michael Ovitz  All-In Summit 2024 - YouTube.md",
+          "path": "/Users/raghavmehta/Library/Mobile Documents/iCloud~md~obsidian/Documents/OCTA/Notion/The Archive/(316) Michael Ovitz  All-In Summit 2024 - YouTube.md",
+          "type": "local"
+        },
+        {
+          "title": "(316) Michael Ovitz All-In Summit 2024 - YouTube 104db6da25c7815b8819ff62100e8d9f.html",
+          "path": "/Users/raghavmehta/Downloads/Mehta Mail Export/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/(316) Michael Ovitz All-In Summit 2024 - YouTube 104db6da25c7815b8819ff62100e8d9f.html",
+          "type": "local"
+        },
+        {
+          "title": "(316) Michael Ovitz All-In Summit 2024 - YouTube 104db6da25c7815b8819ff62100e8d9f.md",
+          "path": "/Users/raghavmehta/Downloads/Mail from Mehta, Raghav Raj/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/(316) Michael Ovitz All-In Summit 2024 - YouTube 104db6da25c7815b8819ff62100e8d9f.md",
+          "type": "local"
+        },
+        {
+          "title": "(529) He Took $20K & Turned It Into $60M Now He's  10ddb6da25c781bcaca1e7388e7d67a4.html",
+          "path": "/Users/raghavmehta/Downloads/Mehta Mail Export/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/(529) He Took $20K & Turned It Into $60M Now He's  10ddb6da25c781bcaca1e7388e7d67a4.html",
+          "type": "local"
+        },
+        {
+          "title": "(529) He Took $20K & Turned It Into $60M Now He's  10ddb6da25c781bcaca1e7388e7d67a4.md",
+          "path": "/Users/raghavmehta/Downloads/Mail from Mehta, Raghav Raj/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/(529) He Took $20K & Turned It Into $60M Now He's  10ddb6da25c781bcaca1e7388e7d67a4.md",
+          "type": "local"
+        },
+        {
+          "title": "(529) He Took $20K & Turned It Into $60M. Now He's Betting on Palantir. - YouTube.md",
+          "path": "/Users/raghavmehta/Library/Mobile Documents/iCloud~md~obsidian/Documents/OCTA/Notion/The Archive/(529) He Took $20K & Turned It Into $60M. Now He's Betting on Palantir. - YouTube.md",
+          "type": "local"
+        },
+        {
+          "title": "(582) Why Sam Altman and Elon Musk are WRONG and O 10fdb6da25c781abbbfbf2c29f14b4ce.html",
+          "path": "/Users/raghavmehta/Downloads/Mehta Mail Export/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/(582) Why Sam Altman and Elon Musk are WRONG and O 10fdb6da25c781abbbfbf2c29f14b4ce.html",
+          "type": "local"
+        },
+        {
+          "title": "(582) Why Sam Altman and Elon Musk are WRONG and O 10fdb6da25c781abbbfbf2c29f14b4ce.md",
+          "path": "/Users/raghavmehta/Downloads/Mail from Mehta, Raghav Raj/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/(582) Why Sam Altman and Elon Musk are WRONG and O 10fdb6da25c781abbbfbf2c29f14b4ce.md",
+          "type": "local"
+        },
+        {
+          "title": "(582) Why Sam Altman and Elon Musk are WRONG and Ontology is the next step in AI - YouTube.md",
+          "path": "/Users/raghavmehta/Library/Mobile Documents/iCloud~md~obsidian/Documents/OCTA/Notion/The Archive/(582) Why Sam Altman and Elon Musk are WRONG and Ontology is the next step in AI - YouTube.md",
+          "type": "local"
+        },
+        {
+          "title": "(769) Palantir Engineers Just Launched Their Most  118db6da25c781aca3a9eec94ac33dc1.html",
+          "path": "/Users/raghavmehta/Downloads/Mehta Mail Export/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/(769) Palantir Engineers Just Launched Their Most  118db6da25c781aca3a9eec94ac33dc1.html",
+          "type": "local"
+        },
+        {
+          "title": "(769) Palantir Engineers Just Launched Their Most  118db6da25c781aca3a9eec94ac33dc1.md",
+          "path": "/Users/raghavmehta/Downloads/Mail from Mehta, Raghav Raj/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/(769) Palantir Engineers Just Launched Their Most  118db6da25c781aca3a9eec94ac33dc1.md",
+          "type": "local"
+        },
+        {
+          "title": "(769) Palantir Engineers Just Launched Their Most Ambitious Project Yet... - YouTube.md",
+          "path": "/Users/raghavmehta/Library/Mobile Documents/iCloud~md~obsidian/Documents/OCTA/Notion/The Archive/(769) Palantir Engineers Just Launched Their Most Ambitious Project Yet... - YouTube.md",
+          "type": "local"
+        },
+        {
+          "title": "Alex Karp Has Money and Power. So What Does He Want.md",
+          "path": "/Users/raghavmehta/Library/Mobile Documents/iCloud~md~obsidian/Documents/OCTA/Readwise/Articles/Alex Karp Has Money and Power. So What Does He Want.md",
+          "type": "local"
+        },
+        {
+          "title": "amit on X REFLECTIONS FROM AIPCON 5 Alright, I hav 100db6da25c7812fb1e7d4fa6a38eeb3.html",
+          "path": "/Users/raghavmehta/Downloads/Mehta Mail Export/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/amit on X REFLECTIONS FROM AIPCON 5 Alright, I hav 100db6da25c7812fb1e7d4fa6a38eeb3.html",
+          "type": "local"
+        },
+        {
+          "title": "amit on X REFLECTIONS FROM AIPCON 5 Alright, I hav 100db6da25c7812fb1e7d4fa6a38eeb3.md",
+          "path": "/Users/raghavmehta/Downloads/Mail from Mehta, Raghav Raj/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/amit on X REFLECTIONS FROM AIPCON 5 Alright, I hav 100db6da25c7812fb1e7d4fa6a38eeb3.md",
+          "type": "local"
+        },
+        {
+          "title": "amit on X- REFLECTIONS FROM AIPCON 5- Alright, I have a ton to say here so this is going to be pretty long but hopefully can encapsulate the depth of everything I experienced this week. This was a....md",
+          "path": "/Users/raghavmehta/Library/Mobile Documents/iCloud~md~obsidian/Documents/OCTA/Notion/The Archive/amit on X- REFLECTIONS FROM AIPCON 5- Alright, I have a ton to say here so this is going to be pretty long but hopefully can encapsulate the depth of everything I experienced this week. This was a....md",
+          "type": "local"
+        },
+        {
+          "title": "An Interview with Palantir CTO Shyam Sankar and He 10bdb6da25c7819a8c7ced6fce0b6e77.html",
+          "path": "/Users/raghavmehta/Downloads/Mehta Mail Export/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/An Interview with Palantir CTO Shyam Sankar and He 10bdb6da25c7819a8c7ced6fce0b6e77.html",
+          "type": "local"
+        },
+        {
+          "title": "An Interview with Palantir CTO Shyam Sankar and He 10bdb6da25c7819a8c7ced6fce0b6e77.md",
+          "path": "/Users/raghavmehta/Downloads/Mail from Mehta, Raghav Raj/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/An Interview with Palantir CTO Shyam Sankar and He 10bdb6da25c7819a8c7ced6fce0b6e77.md",
+          "type": "local"
+        },
+        {
+          "title": "An Interview with Palantir CTO Shyam Sankar and Head of Global Commercial Ted Mabrey – Stratechery by Ben Thompson.md",
+          "path": "/Users/raghavmehta/Library/Mobile Documents/iCloud~md~obsidian/Documents/OCTA/Notion/The Archive/An Interview with Palantir CTO Shyam Sankar and Head of Global Commercial Ted Mabrey – Stratechery by Ben Thompson/An Interview with Palantir CTO Shyam Sankar and Head of Global Commercial Ted Mabrey – Stratechery by Ben Thompson.md",
+          "type": "local"
+        },
+        {
+          "title": "Anduril - The Startup Reshaping Geopolitics = Yout be97c17b02d74e318e4c3317eab50835.html",
+          "path": "/Users/raghavmehta/Downloads/Mehta Mail Export/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/Anduril - The Startup Reshaping Geopolitics = Yout be97c17b02d74e318e4c3317eab50835.html",
+          "type": "local"
+        },
+        {
+          "title": "Anduril - The Startup Reshaping Geopolitics = Yout be97c17b02d74e318e4c3317eab50835.md",
+          "path": "/Users/raghavmehta/Downloads/Mail from Mehta, Raghav Raj/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/Anduril - The Startup Reshaping Geopolitics = Yout be97c17b02d74e318e4c3317eab50835.md",
+          "type": "local"
+        },
+        {
+          "title": "Anduril - The Startup Reshaping Geopolitics = Youtube.md",
+          "path": "/Users/raghavmehta/Library/Mobile Documents/iCloud~md~obsidian/Documents/OCTA/Notion/The Archive/Anduril - The Startup Reshaping Geopolitics = Youtube.md",
+          "type": "local"
+        },
+        {
+          "title": "Archive consolidated.docx",
+          "path": "/Users/raghavmehta/Downloads/Archive consolidated.docx",
+          "type": "local"
+        },
+        {
+          "title": "How Tech Giants Turned Ukraine Into an AI War Lab 084e770adb314c829dc2f37bfc3854c9.html",
+          "path": "/Users/raghavmehta/Downloads/Mehta Mail Export/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/How Tech Giants Turned Ukraine Into an AI War Lab 084e770adb314c829dc2f37bfc3854c9.html",
+          "type": "local"
+        },
+        {
+          "title": "How Tech Giants Turned Ukraine Into an AI War Lab 084e770adb314c829dc2f37bfc3854c9.md",
+          "path": "/Users/raghavmehta/Downloads/Mail from Mehta, Raghav Raj/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/How Tech Giants Turned Ukraine Into an AI War Lab 084e770adb314c829dc2f37bfc3854c9.md",
+          "type": "local"
+        },
+        {
+          "title": "How Tech Giants Turned Ukraine Into an AI War Lab.md",
+          "path": "/Users/raghavmehta/Library/Mobile Documents/iCloud~md~obsidian/Documents/OCTA/Notion/The Archive/How Tech Giants Turned Ukraine Into an AI War Lab.md",
+          "type": "local"
+        },
+        {
+          "title": "MSC 2025 Agenda.pdf",
+          "path": "/Users/raghavmehta/Downloads/MSC 2025 Agenda.pdf",
+          "type": "local"
+        },
+        {
+          "title": "OCTA-merged.md",
+          "path": "/Users/raghavmehta/Library/Mobile Documents/iCloud~md~obsidian/Documents/OCTA-merged.md",
+          "type": "local"
+        },
+        {
+          "title": "Palantir Bull and Bear.docx",
+          "path": "/Users/raghavmehta/Downloads/Palantir Bull and Bear.docx",
+          "type": "local"
+        },
+        {
+          "title": "Palantir Bull and Bear.pdf",
+          "path": "/Users/raghavmehta/Downloads/Palantir Bull and Bear.pdf",
+          "type": "local"
+        },
+        {
+          "title": "Palantir Foundry.md",
+          "path": "/Users/raghavmehta/Library/Mobile Documents/iCloud~md~obsidian/Documents/OCTA/Groups, Companies and Orgs/Palantir Foundry.md",
+          "type": "local"
+        },
+        {
+          "title": "Palantir Gotham.md",
+          "path": "/Users/raghavmehta/Library/Mobile Documents/iCloud~md~obsidian/Documents/OCTA/Groups, Companies and Orgs/Palantir Gotham.md",
+          "type": "local"
+        },
+        {
+          "title": "Palantir Research Bull and Bear.pdf",
+          "path": "/Users/raghavmehta/Downloads/Palantir Research Bull and Bear.pdf",
+          "type": "local"
+        },
+        {
+          "title": "Palantir Technologies Value Fund Pitch.docx",
+          "path": "/Users/raghavmehta/Downloads/Palantir Technologies Value Fund Pitch.docx",
+          "type": "local"
+        },
+        {
+          "title": "Palantir The Founder Foundry - by Apoorv Agrawal 127db6da25c7811db069d0124c4edeea.html",
+          "path": "/Users/raghavmehta/Downloads/Mehta Mail Export/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/Palantir The Founder Foundry - by Apoorv Agrawal 127db6da25c7811db069d0124c4edeea.html",
+          "type": "local"
+        },
+        {
+          "title": "Palantir The Founder Foundry - by Apoorv Agrawal 127db6da25c7811db069d0124c4edeea.md",
+          "path": "/Users/raghavmehta/Downloads/Mail from Mehta, Raghav Raj/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/Palantir The Founder Foundry - by Apoorv Agrawal 127db6da25c7811db069d0124c4edeea.md",
+          "type": "local"
+        },
+        {
+          "title": "Palantir The Most Important Company in the West bb9e8086b7af4fd0ba8f6dd4784ec545.html",
+          "path": "/Users/raghavmehta/Downloads/Mehta Mail Export/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/Palantir The Most Important Company in the West bb9e8086b7af4fd0ba8f6dd4784ec545.html",
+          "type": "local"
+        },
+        {
+          "title": "Palantir The Most Important Company in the West bb9e8086b7af4fd0ba8f6dd4784ec545.md",
+          "path": "/Users/raghavmehta/Downloads/Mail from Mehta, Raghav Raj/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/Palantir The Most Important Company in the West bb9e8086b7af4fd0ba8f6dd4784ec545.md",
+          "type": "local"
+        },
+        {
+          "title": "Palantir will get a huge contract from Border Patrol.md",
+          "path": "/Users/raghavmehta/Library/Mobile Documents/iCloud~md~obsidian/Documents/OCTA/Notion/Prediction Dashboard/Prediction Board/Palantir will get a huge contract from Border Patrol.md",
+          "type": "local"
+        },
+        {
+          "title": "Palantir- The Founder Foundry - by Apoorv Agrawal.md",
+          "path": "/Users/raghavmehta/Library/Mobile Documents/iCloud~md~obsidian/Documents/OCTA/Notion/The Archive/Palantir- The Founder Foundry - by Apoorv Agrawal.md",
+          "type": "local"
+        },
+        {
+          "title": "Palantir- The Most Important Company in the West.md",
+          "path": "/Users/raghavmehta/Library/Mobile Documents/iCloud~md~obsidian/Documents/OCTA/Notion/The Archive/Palantir- The Most Important Company in the West.md",
+          "type": "local"
+        },
+        {
+          "title": "**Overview**: palantir involves various aspects that impact multiple areas.",
+          "url": "https://example.com/reference/51",
+          "type": "web"
+        },
+        {
+          "title": "**Main Aspects**: Several sources highlight the importance of understanding palantir in relation to related concepts.",
+          "url": "https://example.com/reference/52",
+          "type": "web"
+        },
+        {
+          "title": "**Recent Developments**: Recent information suggests significant changes in how palantir is approached.",
+          "url": "https://example.com/reference/53",
+          "type": "web"
+        },
+        {
+          "title": "**Expert Perspectives**: Experts in the field have provided various viewpoints on palantir, particularly regarding key aspects.",
+          "url": "https://example.com/reference/54",
+          "type": "web"
+        },
+        {
+          "title": "Understanding palantir: A Comprehensive Guide",
+          "url": "https://example.com/reference/55",
+          "type": "web"
+        },
+        {
+          "title": "Recent Developments in The Field: 2025 Overview",
+          "url": "https://example.com/reference/56",
+          "type": "web"
+        },
+        {
+          "title": "Applications in Practice: Case Studies",
+          "url": "https://example.com/reference/57",
+          "type": "web"
+        }
+      ],
+      "timestamp": 1741432311025
+    },
+    "sources": [],
+    "localFiles": [
+      {
+        "name": "(146) PALANTIR HITS $34, 52 WEEK HIGH, & A NEW 5-Y 2aab1291d5fe4fda9231400c2d5d9481.html",
+        "path": "/Users/raghavmehta/Downloads/Mehta Mail Export/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/(146) PALANTIR HITS $34, 52 WEEK HIGH, & A NEW 5-Y 2aab1291d5fe4fda9231400c2d5d9481.html",
+        "type": ".html",
+        "contentPreview": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"/><title>(146) PALANTIR HITS $34, 52 WEEK HIGH, &amp; A NEW 5-YEAR DEAL. - YouTube</title><style>\n/* cspell:disable-file *..."
+      },
+      {
+        "name": "(146) PALANTIR HITS $34, 52 WEEK HIGH, & A NEW 5-Y 2aab1291d5fe4fda9231400c2d5d9481.md",
+        "path": "/Users/raghavmehta/Downloads/Mail from Mehta, Raghav Raj/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/(146) PALANTIR HITS $34, 52 WEEK HIGH, & A NEW 5-Y 2aab1291d5fe4fda9231400c2d5d9481.md",
+        "type": ".md",
+        "contentPreview": "# (146) PALANTIR HITS $34, 52 WEEK HIGH, & A NEW 5-YEAR DEAL. - YouTube\n\nDate: September 9, 2024 8:29 PM\nURL: https://www.youtube.com/watch?v=t5KGpIqpnQ4&list=TLPQMTAwOTIwMjRpFm2GGbwd-w&index=2\nAI key..."
+      },
+      {
+        "name": "(146) PALANTIR HITS $34, 52 WEEK HIGH, & A NEW 5-YEAR DEAL. - YouTube.md",
+        "path": "/Users/raghavmehta/Library/Mobile Documents/iCloud~md~obsidian/Documents/OCTA/Notion/The Archive/(146) PALANTIR HITS $34, 52 WEEK HIGH, & A NEW 5-YEAR DEAL. - YouTube.md",
+        "type": ".md",
+        "contentPreview": "---\nDate: 2024-09-09T20:29\nURL: https://www.youtube.com/watch?v=t5KGpIqpnQ4&list=TLPQMTAwOTIwMjRpFm2GGbwd-w&index=2\nAI key info: \"- Palantir stock hits 52-week high at $34.60, up 14% due to S&P 500 in..."
+      },
+      {
+        "name": "(215) PALANTIR AIPCON RECAP, NVIDIA PROVES AI CONT 100db6da25c781b58426da4c60b723ca.html",
+        "path": "/Users/raghavmehta/Downloads/Mehta Mail Export/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/(215) PALANTIR AIPCON RECAP, NVIDIA PROVES AI CONT 100db6da25c781b58426da4c60b723ca.html",
+        "type": ".html",
+        "contentPreview": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"/><title>(215) PALANTIR AIPCON RECAP, NVIDIA PROVES AI CONTINUES TO BE REAL, ORACLE BOOSTS GUIDANCE | MARKET OPEN - YouTub..."
+      },
+      {
+        "name": "(215) PALANTIR AIPCON RECAP, NVIDIA PROVES AI CONT 100db6da25c781b58426da4c60b723ca.md",
+        "path": "/Users/raghavmehta/Downloads/Mail from Mehta, Raghav Raj/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/(215) PALANTIR AIPCON RECAP, NVIDIA PROVES AI CONT 100db6da25c781b58426da4c60b723ca.md",
+        "type": ".md",
+        "contentPreview": "# (215) PALANTIR AIPCON RECAP, NVIDIA PROVES AI CONTINUES TO BE REAL, ORACLE BOOSTS GUIDANCE | MARKET OPEN - YouTube\n\nDate: September 13, 2024 1:46 PM\nURL: https://www.youtube.com/watch?v=cCOWlC9iEsk\n..."
+      },
+      {
+        "name": "(215) PALANTIR AIPCON RECAP, NVIDIA PROVES AI CONTINUES TO BE REAL, ORACLE BOOSTS GUIDANCE  MARKET OPEN - YouTube.md",
+        "path": "/Users/raghavmehta/Library/Mobile Documents/iCloud~md~obsidian/Documents/OCTA/Notion/The Archive/(215) PALANTIR AIPCON RECAP, NVIDIA PROVES AI CONTINUES TO BE REAL, ORACLE BOOSTS GUIDANCE  MARKET OPEN - YouTube.md",
+        "type": ".md",
+        "contentPreview": "---\nDate: 2024-09-13T13:46\nURL: https://www.youtube.com/watch?v=cCOWlC9iEsk\nAI key info: \"- High premiums for Palantir options indicate strong investor confidence.- Potential market rotation from low-..."
+      },
+      {
+        "name": "(282) Tech Outperforming and Musk's Interview With 55ebe9488f3d43159df6a6942bcca9c7.html",
+        "path": "/Users/raghavmehta/Downloads/Mehta Mail Export/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/(282) Tech Outperforming and Musk's Interview With 55ebe9488f3d43159df6a6942bcca9c7.html",
+        "type": ".html",
+        "contentPreview": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"/><title>(282) Tech Outperforming and Musk&#x27;s Interview With Trump | Bloomberg Technology - YouTube</title><style>\n/* ..."
+      },
+      {
+        "name": "(282) Tech Outperforming and Musk's Interview With 55ebe9488f3d43159df6a6942bcca9c7.md",
+        "path": "/Users/raghavmehta/Downloads/Mail from Mehta, Raghav Raj/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/(282) Tech Outperforming and Musk's Interview With 55ebe9488f3d43159df6a6942bcca9c7.md",
+        "type": ".md",
+        "contentPreview": "# (282) Tech Outperforming and Musk's Interview With Trump | Bloomberg Technology - YouTube\n\nDate: August 15, 2024 2:08 AM\nURL: https://www.youtube.com/watch?v=65GVrbUVk4E&t=974s\nAI key info: - Hosts:..."
+      },
+      {
+        "name": "(282) Tech Outperforming and Musk's Interview With Trump  Bloomberg Technology - YouTube.md",
+        "path": "/Users/raghavmehta/Library/Mobile Documents/iCloud~md~obsidian/Documents/OCTA/Notion/The Archive/(282) Tech Outperforming and Musk's Interview With Trump  Bloomberg Technology - YouTube.md",
+        "type": ".md",
+        "contentPreview": "---\nDate: 2024-08-15T02:08\nURL: https://www.youtube.com/watch?v=65GVrbUVk4E&t=974s\nAI key info: \"- Hosts: Caroline Hyde and Ed Ludlow.- Tech industry performance amid economic volatility.- Preview of ..."
+      },
+      {
+        "name": "(316) Michael Ovitz  All-In Summit 2024 - YouTube.md",
+        "path": "/Users/raghavmehta/Library/Mobile Documents/iCloud~md~obsidian/Documents/OCTA/Notion/The Archive/(316) Michael Ovitz  All-In Summit 2024 - YouTube.md",
+        "type": ".md",
+        "contentPreview": "---\nDate: 2024-09-17T17:27\nURL: https://www.youtube.com/watch?v=fBGH_Hq0Bm4\nAI key info: \"- Michael Ovitz, co-founder of CAA, shares insights from his career.- Discusses journey from mailroom to super..."
+      },
+      {
+        "name": "(316) Michael Ovitz All-In Summit 2024 - YouTube 104db6da25c7815b8819ff62100e8d9f.html",
+        "path": "/Users/raghavmehta/Downloads/Mehta Mail Export/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/(316) Michael Ovitz All-In Summit 2024 - YouTube 104db6da25c7815b8819ff62100e8d9f.html",
+        "type": ".html",
+        "contentPreview": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"/><title>(316) Michael Ovitz | All-In Summit 2024 - YouTube</title><style>\n/* cspell:disable-file */\n/* webkit printing ma..."
+      },
+      {
+        "name": "(316) Michael Ovitz All-In Summit 2024 - YouTube 104db6da25c7815b8819ff62100e8d9f.md",
+        "path": "/Users/raghavmehta/Downloads/Mail from Mehta, Raghav Raj/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/(316) Michael Ovitz All-In Summit 2024 - YouTube 104db6da25c7815b8819ff62100e8d9f.md",
+        "type": ".md",
+        "contentPreview": "# (316) Michael Ovitz | All-In Summit 2024 - YouTube\n\nDate: September 17, 2024 5:27 PM\nURL: https://www.youtube.com/watch?v=fBGH_Hq0Bm4\nAI key info: - Michael Ovitz, co-founder of CAA, shares insights..."
+      },
+      {
+        "name": "(529) He Took $20K & Turned It Into $60M Now He's  10ddb6da25c781bcaca1e7388e7d67a4.html",
+        "path": "/Users/raghavmehta/Downloads/Mehta Mail Export/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/(529) He Took $20K & Turned It Into $60M Now He's  10ddb6da25c781bcaca1e7388e7d67a4.html",
+        "type": ".html",
+        "contentPreview": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"/><title>(529) He Took $20K &amp; Turned It Into $60M. Now He&#x27;s Betting on Palantir. - YouTube</title><style>\n/* cspe..."
+      },
+      {
+        "name": "(529) He Took $20K & Turned It Into $60M Now He's  10ddb6da25c781bcaca1e7388e7d67a4.md",
+        "path": "/Users/raghavmehta/Downloads/Mail from Mehta, Raghav Raj/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/(529) He Took $20K & Turned It Into $60M Now He's  10ddb6da25c781bcaca1e7388e7d67a4.md",
+        "type": ".md",
+        "contentPreview": "# (529) He Took $20K & Turned It Into $60M. Now He's Betting on Palantir. - YouTube\n\nDate: September 25, 2024 10:00 PM\nURL: https://www.youtube.com/watch?v=uQRs5DSOqVo&t=329s\nAI key info: - Chris Cami..."
+      },
+      {
+        "name": "(529) He Took $20K & Turned It Into $60M. Now He's Betting on Palantir. - YouTube.md",
+        "path": "/Users/raghavmehta/Library/Mobile Documents/iCloud~md~obsidian/Documents/OCTA/Notion/The Archive/(529) He Took $20K & Turned It Into $60M. Now He's Betting on Palantir. - YouTube.md",
+        "type": ".md",
+        "contentPreview": "---\nDate: 2024-09-25T22:00\nURL: https://www.youtube.com/watch?v=uQRs5DSOqVo&t=329s\nAI key info: \"- Chris Camillo's observational investing style focuses on consumer behavior and cultural shifts.- Achi..."
+      },
+      {
+        "name": "(582) Why Sam Altman and Elon Musk are WRONG and O 10fdb6da25c781abbbfbf2c29f14b4ce.html",
+        "path": "/Users/raghavmehta/Downloads/Mehta Mail Export/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/(582) Why Sam Altman and Elon Musk are WRONG and O 10fdb6da25c781abbbfbf2c29f14b4ce.html",
+        "type": ".html",
+        "contentPreview": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"/><title>(582) Why Sam Altman and Elon Musk are WRONG and Ontology is the next step in AI - YouTube</title><style>\n/* cspe..."
+      },
+      {
+        "name": "(582) Why Sam Altman and Elon Musk are WRONG and O 10fdb6da25c781abbbfbf2c29f14b4ce.md",
+        "path": "/Users/raghavmehta/Downloads/Mail from Mehta, Raghav Raj/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/(582) Why Sam Altman and Elon Musk are WRONG and O 10fdb6da25c781abbbfbf2c29f14b4ce.md",
+        "type": ".md",
+        "contentPreview": "# (582) Why Sam Altman and Elon Musk are WRONG and Ontology is the next step in AI - YouTube\n\nDate: September 27, 2024 11:10 PM\nURL: https://www.youtube.com/watch?v=htS_obfr5P4&t=621s\nAI key info: - M..."
+      },
+      {
+        "name": "(582) Why Sam Altman and Elon Musk are WRONG and Ontology is the next step in AI - YouTube.md",
+        "path": "/Users/raghavmehta/Library/Mobile Documents/iCloud~md~obsidian/Documents/OCTA/Notion/The Archive/(582) Why Sam Altman and Elon Musk are WRONG and Ontology is the next step in AI - YouTube.md",
+        "type": ".md",
+        "contentPreview": "---\nDate: 2024-09-27T23:10\nURL: https://www.youtube.com/watch?v=htS_obfr5P4&t=621s\nAI key info: \"- Misconceptions in AI focus on scaling superintelligence.- Advocates for an ontology-based approach to..."
+      },
+      {
+        "name": "(769) Palantir Engineers Just Launched Their Most  118db6da25c781aca3a9eec94ac33dc1.html",
+        "path": "/Users/raghavmehta/Downloads/Mehta Mail Export/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/(769) Palantir Engineers Just Launched Their Most  118db6da25c781aca3a9eec94ac33dc1.html",
+        "type": ".html",
+        "contentPreview": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"/><title>(769) Palantir Engineers Just Launched Their Most Ambitious Project Yet... - YouTube</title><style>\n/* cspell:dis..."
+      },
+      {
+        "name": "(769) Palantir Engineers Just Launched Their Most  118db6da25c781aca3a9eec94ac33dc1.md",
+        "path": "/Users/raghavmehta/Downloads/Mail from Mehta, Raghav Raj/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/(769) Palantir Engineers Just Launched Their Most  118db6da25c781aca3a9eec94ac33dc1.md",
+        "type": ".md",
+        "contentPreview": "# (769) Palantir Engineers Just Launched Their Most Ambitious Project Yet... - YouTube\n\nDate: October 6, 2024 8:29 PM\nURL: https://www.youtube.com/watch?v=aYPs3qVuy-w\nAI key info: - Palantir launched ..."
+      },
+      {
+        "name": "(769) Palantir Engineers Just Launched Their Most Ambitious Project Yet... - YouTube.md",
+        "path": "/Users/raghavmehta/Library/Mobile Documents/iCloud~md~obsidian/Documents/OCTA/Notion/The Archive/(769) Palantir Engineers Just Launched Their Most Ambitious Project Yet... - YouTube.md",
+        "type": ".md",
+        "contentPreview": "---\nDate: 2024-10-06T20:29\nURL: https://www.youtube.com/watch?v=aYPs3qVuy-w\nAI key info: \"- Palantir launched DevCon, its first developer conference.- Aimed at engaging developers around Foundry and A..."
+      },
+      {
+        "name": "Alex Karp Has Money and Power. So What Does He Want.md",
+        "path": "/Users/raghavmehta/Library/Mobile Documents/iCloud~md~obsidian/Documents/OCTA/Readwise/Articles/Alex Karp Has Money and Power. So What Does He Want.md",
+        "type": ".md",
+        "contentPreview": "![rw-book-cover](https://static01.nyt.com/images/2024/08/18/multimedia/17ALEX-KARP-01-glfw/17ALEX-KARP-01-glfw-facebookJumbo.jpg)\n\n## Metadata\n- Author: [[Maureen Dowd]]\n- Full Title: Alex Karp Has Mo..."
+      },
+      {
+        "name": "amit on X REFLECTIONS FROM AIPCON 5 Alright, I hav 100db6da25c7812fb1e7d4fa6a38eeb3.html",
+        "path": "/Users/raghavmehta/Downloads/Mehta Mail Export/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/amit on X REFLECTIONS FROM AIPCON 5 Alright, I hav 100db6da25c7812fb1e7d4fa6a38eeb3.html",
+        "type": ".html",
+        "contentPreview": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"/><title>amit on X: &quot;REFLECTIONS FROM AIPCON 5: Alright, I have a ton to say here so this is going to be pretty long ..."
+      },
+      {
+        "name": "amit on X REFLECTIONS FROM AIPCON 5 Alright, I hav 100db6da25c7812fb1e7d4fa6a38eeb3.md",
+        "path": "/Users/raghavmehta/Downloads/Mail from Mehta, Raghav Raj/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/amit on X REFLECTIONS FROM AIPCON 5 Alright, I hav 100db6da25c7812fb1e7d4fa6a38eeb3.md",
+        "type": ".md",
+        "contentPreview": "# amit on X: \"REFLECTIONS FROM AIPCON 5: Alright, I have a ton to say here so this is going to be pretty long but hopefully can encapsulate the depth of everything I experienced this week. This was a ..."
+      },
+      {
+        "name": "amit on X- REFLECTIONS FROM AIPCON 5- Alright, I have a ton to say here so this is going to be pretty long but hopefully can encapsulate the depth of everything I experienced this week. This was a....md",
+        "path": "/Users/raghavmehta/Library/Mobile Documents/iCloud~md~obsidian/Documents/OCTA/Notion/The Archive/amit on X- REFLECTIONS FROM AIPCON 5- Alright, I have a ton to say here so this is going to be pretty long but hopefully can encapsulate the depth of everything I experienced this week. This was a....md",
+        "type": ".md",
+        "contentPreview": "---\nDate: 2024-09-13T16:30\nURL: https://twitter.com/amitisinvesting/status/1834689007877603523\nAI key info: \"- Emotional reflections on AIPCon 5- 4 years of covering Palantir- Interest in Palantir due..."
+      },
+      {
+        "name": "An Interview with Palantir CTO Shyam Sankar and He 10bdb6da25c7819a8c7ced6fce0b6e77.html",
+        "path": "/Users/raghavmehta/Downloads/Mehta Mail Export/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/An Interview with Palantir CTO Shyam Sankar and He 10bdb6da25c7819a8c7ced6fce0b6e77.html",
+        "type": ".html",
+        "contentPreview": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"/><title>An Interview with Palantir CTO Shyam Sankar and Head of Global Commercial Ted Mabrey – Stratechery by Ben Thompso..."
+      },
+      {
+        "name": "An Interview with Palantir CTO Shyam Sankar and He 10bdb6da25c7819a8c7ced6fce0b6e77.md",
+        "path": "/Users/raghavmehta/Downloads/Mail from Mehta, Raghav Raj/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/An Interview with Palantir CTO Shyam Sankar and He 10bdb6da25c7819a8c7ced6fce0b6e77.md",
+        "type": ".md",
+        "contentPreview": "# An Interview with Palantir CTO Shyam Sankar and Head of Global Commercial Ted Mabrey – Stratechery by Ben Thompson\n\nDate: September 24, 2024 9:33 AM\nURL: https://stratechery.com/2023/an-interview-wi..."
+      },
+      {
+        "name": "An Interview with Palantir CTO Shyam Sankar and Head of Global Commercial Ted Mabrey – Stratechery by Ben Thompson.md",
+        "path": "/Users/raghavmehta/Library/Mobile Documents/iCloud~md~obsidian/Documents/OCTA/Notion/The Archive/An Interview with Palantir CTO Shyam Sankar and Head of Global Commercial Ted Mabrey – Stratechery by Ben Thompson/An Interview with Palantir CTO Shyam Sankar and Head of Global Commercial Ted Mabrey – Stratechery by Ben Thompson.md",
+        "type": ".md",
+        "contentPreview": "---\nDate: 2024-09-24T09:33\nURL: https://stratechery.com/2023/an-interview-with-palantir-cto-shyam-sankar-and-head-of-global-commercial-ted-mabrey/\nAI key info: \"- Discussion on LLMs (Large Language Mo..."
+      },
+      {
+        "name": "Anduril - The Startup Reshaping Geopolitics = Yout be97c17b02d74e318e4c3317eab50835.html",
+        "path": "/Users/raghavmehta/Downloads/Mehta Mail Export/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/Anduril - The Startup Reshaping Geopolitics = Yout be97c17b02d74e318e4c3317eab50835.html",
+        "type": ".html",
+        "contentPreview": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"/><title>Anduril - The Startup Reshaping Geopolitics = Youtube</title><style>\n/* cspell:disable-file */\n/* webkit printing..."
+      },
+      {
+        "name": "Anduril - The Startup Reshaping Geopolitics = Yout be97c17b02d74e318e4c3317eab50835.md",
+        "path": "/Users/raghavmehta/Downloads/Mail from Mehta, Raghav Raj/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/Anduril - The Startup Reshaping Geopolitics = Yout be97c17b02d74e318e4c3317eab50835.md",
+        "type": ".md",
+        "contentPreview": "# Anduril - The Startup Reshaping Geopolitics = Youtube\n\nDate: June 19, 2024 12:00 PM\nURL: https://www.youtube.com/watch?v=UI4l-o4AcHs\nAI key info: - Anduril is a defense technology startup reshaping ..."
+      },
+      {
+        "name": "Anduril - The Startup Reshaping Geopolitics = Youtube.md",
+        "path": "/Users/raghavmehta/Library/Mobile Documents/iCloud~md~obsidian/Documents/OCTA/Notion/The Archive/Anduril - The Startup Reshaping Geopolitics = Youtube.md",
+        "type": ".md",
+        "contentPreview": "---\nDate: 2024-06-19T12:00\nURL: https://www.youtube.com/watch?v=UI4l-o4AcHs\nAI key info: \"- Anduril is a defense technology startup reshaping geopolitics.- Founded by Palmer Luckey, known for Oculus V..."
+      },
+      {
+        "name": "Archive consolidated.docx",
+        "path": "/Users/raghavmehta/Downloads/Archive consolidated.docx",
+        "type": ".docx",
+        "contentPreview": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0000\u0000!\u0000ߤ�lZ\u0001\u0000\u0000 \u0005\u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml �\u0004\u0002(�\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+      },
+      {
+        "name": "How Tech Giants Turned Ukraine Into an AI War Lab 084e770adb314c829dc2f37bfc3854c9.html",
+        "path": "/Users/raghavmehta/Downloads/Mehta Mail Export/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/How Tech Giants Turned Ukraine Into an AI War Lab 084e770adb314c829dc2f37bfc3854c9.html",
+        "type": ".html",
+        "contentPreview": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"/><title>How Tech Giants Turned Ukraine Into an AI War Lab</title><style>\n/* cspell:disable-file */\n/* webkit printing mag..."
+      },
+      {
+        "name": "How Tech Giants Turned Ukraine Into an AI War Lab 084e770adb314c829dc2f37bfc3854c9.md",
+        "path": "/Users/raghavmehta/Downloads/Mail from Mehta, Raghav Raj/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/How Tech Giants Turned Ukraine Into an AI War Lab 084e770adb314c829dc2f37bfc3854c9.md",
+        "type": ".md",
+        "contentPreview": "# How Tech Giants Turned Ukraine Into an AI War Lab\n\nDate: February 8, 2024 4:02 PM\nURL: https://time.com/6691662/ai-ukraine-war-palantir/\nAI key info: - Ukraine as a testing ground for AI and tech in..."
+      },
+      {
+        "name": "How Tech Giants Turned Ukraine Into an AI War Lab.md",
+        "path": "/Users/raghavmehta/Library/Mobile Documents/iCloud~md~obsidian/Documents/OCTA/Notion/The Archive/How Tech Giants Turned Ukraine Into an AI War Lab.md",
+        "type": ".md",
+        "contentPreview": "---\nDate: 2024-02-08T16:02\nURL: https://time.com/6691662/ai-ukraine-war-palantir/\nAI key info: \"- Ukraine as a testing ground for AI and tech innovations in warfare.- Palantir's role in providing data..."
+      },
+      {
+        "name": "MSC 2025 Agenda.pdf",
+        "path": "/Users/raghavmehta/Downloads/MSC 2025 Agenda.pdf",
+        "type": ".pdf",
+        "contentPreview": "❌ Error: Binary file cannot be read as text"
+      },
+      {
+        "name": "OCTA-merged.md",
+        "path": "/Users/raghavmehta/Library/Mobile Documents/iCloud~md~obsidian/Documents/OCTA-merged.md",
+        "type": ".md",
+        "contentPreview": "## 2 and 20\n\nIn the context of hedge funds, \"2 and 20\" refers to a commonly used fee structure that hedge fund managers charge their clients. Here's what each number represents:\n\n2: The \"2\" in \"2 and ..."
+      },
+      {
+        "name": "Palantir Bull and Bear.docx",
+        "path": "/Users/raghavmehta/Downloads/Palantir Bull and Bear.docx",
+        "type": ".docx",
+        "contentPreview": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0000\u0000!\u00002�oWf\u0001\u0000\u0000�\u0005\u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml �\u0004\u0002(�\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+      },
+      {
+        "name": "Palantir Bull and Bear.pdf",
+        "path": "/Users/raghavmehta/Downloads/Palantir Bull and Bear.pdf",
+        "type": ".pdf",
+        "contentPreview": "❌ Error: Binary file cannot be read as text"
+      },
+      {
+        "name": "Palantir Foundry.md",
+        "path": "/Users/raghavmehta/Library/Mobile Documents/iCloud~md~obsidian/Documents/OCTA/Groups, Companies and Orgs/Palantir Foundry.md",
+        "type": ".md",
+        "contentPreview": "Foundry is aimed at commercial enterprises and essentially serves as a platform that helps organizations integrate their disparate data stores into a single cohesive data source that can then be used ..."
+      },
+      {
+        "name": "Palantir Gotham.md",
+        "path": "/Users/raghavmehta/Library/Mobile Documents/iCloud~md~obsidian/Documents/OCTA/Groups, Companies and Orgs/Palantir Gotham.md",
+        "type": ".md",
+        "contentPreview": "Gotham is designed for analysts in defense and intelligence sectors. It helps in integrating, managing, securing, and analyzing data. It can be used to identify patterns hidden deep within datasets, r..."
+      },
+      {
+        "name": "Palantir Research Bull and Bear.pdf",
+        "path": "/Users/raghavmehta/Downloads/Palantir Research Bull and Bear.pdf",
+        "type": ".pdf",
+        "contentPreview": "❌ Error: Binary file cannot be read as text"
+      },
+      {
+        "name": "Palantir Technologies Value Fund Pitch.docx",
+        "path": "/Users/raghavmehta/Downloads/Palantir Technologies Value Fund Pitch.docx",
+        "type": ".docx",
+        "contentPreview": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0000\u0000!\u00002�oWf\u0001\u0000\u0000�\u0005\u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml �\u0004\u0002(�\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000..."
+      },
+      {
+        "name": "Palantir The Founder Foundry - by Apoorv Agrawal 127db6da25c7811db069d0124c4edeea.html",
+        "path": "/Users/raghavmehta/Downloads/Mehta Mail Export/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/Palantir The Founder Foundry - by Apoorv Agrawal 127db6da25c7811db069d0124c4edeea.html",
+        "type": ".html",
+        "contentPreview": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"/><title>Palantir: The Founder Foundry - by Apoorv Agrawal</title><style>\n/* cspell:disable-file */\n/* webkit printing mag..."
+      },
+      {
+        "name": "Palantir The Founder Foundry - by Apoorv Agrawal 127db6da25c7811db069d0124c4edeea.md",
+        "path": "/Users/raghavmehta/Downloads/Mail from Mehta, Raghav Raj/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/Palantir The Founder Foundry - by Apoorv Agrawal 127db6da25c7811db069d0124c4edeea.md",
+        "type": ".md",
+        "contentPreview": "# Palantir: The Founder Foundry - by Apoorv Agrawal\n\nDate: October 21, 2024 10:09 PM\nURL: https://apoorv03.com/p/palantir-the-founder-foundry?utm_source=multiple-personal-recommendations-email&utm_med..."
+      },
+      {
+        "name": "Palantir The Most Important Company in the West bb9e8086b7af4fd0ba8f6dd4784ec545.html",
+        "path": "/Users/raghavmehta/Downloads/Mehta Mail Export/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/Palantir The Most Important Company in the West bb9e8086b7af4fd0ba8f6dd4784ec545.html",
+        "type": ".html",
+        "contentPreview": "<html><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"/><title>Palantir: The Most Important Company in the West</title><style>\n/* cspell:disable-file */\n/* webkit printing magi..."
+      },
+      {
+        "name": "Palantir The Most Important Company in the West bb9e8086b7af4fd0ba8f6dd4784ec545.md",
+        "path": "/Users/raghavmehta/Downloads/Mail from Mehta, Raghav Raj/The Archive 9f17e4a4bc654611b90cd4d9d2f9f4db/Palantir The Most Important Company in the West bb9e8086b7af4fd0ba8f6dd4784ec545.md",
+        "type": ".md",
+        "contentPreview": "# Palantir: The Most Important Company in the West\n\nDate: August 28, 2024 7:29 PM\nURL: https://www.investmentideas.io/p/palantir-the-most-important-company\nAI key info: - Palantir's culture is focused..."
+      },
+      {
+        "name": "Palantir will get a huge contract from Border Patrol.md",
+        "path": "/Users/raghavmehta/Library/Mobile Documents/iCloud~md~obsidian/Documents/OCTA/Notion/Prediction Dashboard/Prediction Board/Palantir will get a huge contract from Border Patrol.md",
+        "type": ".md",
+        "contentPreview": "---\nColumn: 2024-02-05T16:13\nType: In Progress\n---\n"
+      },
+      {
+        "name": "Palantir- The Founder Foundry - by Apoorv Agrawal.md",
+        "path": "/Users/raghavmehta/Library/Mobile Documents/iCloud~md~obsidian/Documents/OCTA/Notion/The Archive/Palantir- The Founder Foundry - by Apoorv Agrawal.md",
+        "type": ".md",
+        "contentPreview": "---\nDate: 2024-10-21T22:09\nURL: https://apoorv03.com/p/palantir-the-founder-foundry?utm_source=multiple-personal-recommendations-email&utm_medium=email&triedRedirect=true\nAI key info: \"- Palantir prod..."
+      },
+      {
+        "name": "Palantir- The Most Important Company in the West.md",
+        "path": "/Users/raghavmehta/Library/Mobile Documents/iCloud~md~obsidian/Documents/OCTA/Notion/The Archive/Palantir- The Most Important Company in the West.md",
+        "type": ".md",
+        "contentPreview": "---\nDate: 2024-08-28T19:29\nURL: https://www.investmentideas.io/p/palantir-the-most-important-company\nAI key info: \"- Palantir's culture is focused on building the best data operating system.- Manageme..."
+      }
+    ]
+  }
+]
